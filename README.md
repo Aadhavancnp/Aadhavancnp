@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aadhavanp" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/aadhavanp" style="text-decoration: none!important;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Aadhavancnp" style="text-decoration:none;">
+  <a href="https://github.com/Aadhavancnp" style="text-decoration: none!important;">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
