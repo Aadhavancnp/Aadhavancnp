@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/aadhavanp">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -41,15 +41,19 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### 🐍 My Contributions :
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake.svg" />
 </picture>
 
 ---
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aadhavancnp&theme=dark)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadhavancnp&show_icons=true&locale=en&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Stats-Dark](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats-Light](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhavancnp&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10" />
+</div>
