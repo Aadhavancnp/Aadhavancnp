@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Aadhavan</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">, I'm Aadhavan</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
