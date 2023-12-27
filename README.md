@@ -50,10 +50,16 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10)](https://git.io/streak-stats)
-[![GitHub Stats-Dark](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats-Light](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
+</a>
+<!-- [![GitHub Streak](https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Stats-Dark](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![GitHub Stats-Light](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 <div align="center">
-  <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10" />
+  <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
 </div>
