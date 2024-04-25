@@ -34,41 +34,56 @@
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,php,rust,go,html,css,ts,md,angular,django,dotnet,express,spring,svelte,react,flutter,nextjs,nodejs,androidstudio,tailwind,bootstrap,wordpress,figma,aws,gcp,azure,heroku,mongodb,mysql,docker,git,jenkins,firebase,linux,flask,postman"/>
+   <h2>Frontend</h2>
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,angular,svelte,nextjs,js,ts,tailwindcss"/>
+   <h2>Backend</h2>
+   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,dotnet,nodejs,express,spring,django,flask,py,rust,dart,flutter"/>
+   <h2>Databases</h2>
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+   <h2>Cloud Platforms</h2>
+   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase"/>
+   <h2>Tools</h2>
+   <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,visualstudio,vscode,idea,postman,wordpress,androidstudio"/>
 </div>
 
 ---
 
-# 🌐 Socials:
+<h1 align="center">🌐 Socials</h1>
 
+<div align="center">
 <a href="https://www.codechef.com/users/aadhavan3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadhavan3" height="30" width="40" /></a> &nbsp;
 <a href="https://www.leetcode.com/aadhavan313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadhavan313" height="30" width="40" /></a>
-
+</div>
 
 ---
 
-### 🐍 My Contributions :
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> My Contributions <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /></h1> 
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Aadhavancnp/Aadhavancnp/output/github-snake.svg" />
 </picture>
+</div>
 
 ---
 
-### 🔥 My Stats :
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> My Stats </h1>
 
 <div align="center">
-  <img width="200rem" src="https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
-  <img width="200rem" src="https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
+  <img width="390" src="https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
+   <br/>
+   <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
 </div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10)](https://git.io/streak-stats)
 [![GitHub Stats-Dark](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 [![GitHub Stats-Light](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=default&rank_icon=github&border_radius=10#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadhavanCnp&theme=react"/>
 </div>
 
 
