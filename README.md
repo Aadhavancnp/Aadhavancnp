@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me :
+# 👨‍💻 About Me:
 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently working as a Software Engineer and Cross-Platform Application Developer.
@@ -35,6 +35,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### 🛠️ Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,py,php,rust,go,html,css,ts,md,angular,django,dotnet,express,spring,svelte,react,flutter,nextjs,nodejs,androidstudio,tailwind,bootstrap,wordpress,figma,aws,gcp,azure,heroku,mongodb,mysql,docker,git,jenkins,firebase,linux,flask,postman)](https://skillicons.dev)
+
+---
+
+## 🌐 Socials:
+
 
 ---
 
