@@ -75,7 +75,7 @@
   <img width="390" src="https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
   <img width="390" src="https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
    <br/>
-   <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
+   <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html,cmake&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
 </div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10)](https://git.io/streak-stats)
 [![GitHub Stats-Dark](https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
@@ -83,7 +83,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadhavanCnp&theme=react"/>
+  <img width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=AadhavanCnp&theme=react"/>
 </div>
 
 
