@@ -14,14 +14,14 @@
 
 <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" align="right" height="275" width="320" alt="Coding"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> [![ProfileView](https://visitcount.itsvg.in/api?id=AadhavanCnp&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> ![ProfileView](https://komarev.com/ghpvc/?username=AadhavanCnp)
 
 <br/>
 <div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling"  style="vertical-align: middle !important;" width="25" height="25" /> I’m currently learning **_Machine Learning and Deep Learning_**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop"  style="vertical-align: middle !important;" width="25" height="25" /> View my **_[portfolio](https://aadhavan-portfolio.vercel.app/)_** here
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop"  style="vertical-align: middle !important;" width="25" height="25" /> View my **_[portfolio](https://www.aadhavanp.tech/)_** here
 
 <!-- 🔭 I’m currently working on . -->
 
@@ -45,11 +45,11 @@
 
 <div align="center">
    <h2>Frontend</h2>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,angular,svelte,nextjs,js,ts,tailwindcss"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nextjs,svelte,bootstrap,tailwindcss"/>
    <h2>Backend</h2>
    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,dotnet,nodejs,express,spring,django,flask,py,rust,dart,flutter"/>
    <h2>Databases</h2>
-   <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
    <h2>Cloud Platforms</h2>
    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase"/>
    <h2>Tools</h2>
@@ -61,8 +61,8 @@
 <h1 align="center" style="border-bottom: 0 !important;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="35" height="35" style="vertical-align: middle !important;" /> Socials</h1>
 
 <div align="center" style="vertical-align: middle !important;">
-<a href="https://www.linkedin.com/in/aadhavanp" style="vertical-align: middle !important;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/aadhavan3" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="aadhavan3" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/aadhavanp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aadhavan313" /></a>
+<a href="https://www.codechef.com/users/aadhavan3" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="aadhavan313" /></a>
 <a href="https://www.leetcode.com/aadhavan313" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="aadhavan313" /></a>
 <a href="https://linktr.ee/aadhavanp" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="aadhavan313" /></a>
 <a href="https://www.hackerrank.com/profile/aadhavan313" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="aadhavan313" /></a>
