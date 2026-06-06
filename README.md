@@ -94,7 +94,7 @@
 <h1 align="center"  style="border-bottom: 0 !important;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35"  style="vertical-align: middle !important;" /> My Stats </h1>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-lilac-six.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
+  <img width="390" src="https://github-readme-streak-stats-five-rosy.vercel.app?user=Aadhavancnp&count_private=true&theme=dark&border_radius=10" />
   <img width="390" src="https://github-readme-stats-orcin-eight-82.vercel.app/api?username=Aadhavancnp&show_icons=true&count_private=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
    <br/>
    <img src="https://github-readme-stats-orcin-eight-82.vercel.app/api/top-langs/?username=Aadhavancnp&hide=html,cmake&size_weight=0.5&count_weight=0.5&layout=compact&theme=vision-friendly-dark&langs_count=10&border_radius=10&card_width=360" />
